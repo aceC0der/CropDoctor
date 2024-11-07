@@ -18,10 +18,6 @@ CropDoctor is an AI-powered Android application for diagnosing common leaf disea
 
 1.  **Clone the Repository:**
 
-    bash
-
-    Copy code
-
     `git clone https://github.com/aceC0der/CropDoctor.git`
 
 2.  **Open in Android Studio:**
